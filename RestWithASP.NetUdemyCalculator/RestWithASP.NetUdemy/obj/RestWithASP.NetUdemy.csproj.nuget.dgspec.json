@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.Net\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy.csproj": {}
+    "C:\\.Net\\RestWithASP.NetUdemy\\RestWithASP.NetUdemyCalculator\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy.csproj": {}
   },
   "projects": {
-    "C:\\.Net\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy.csproj": {
+    "C:\\.Net\\RestWithASP.NetUdemy\\RestWithASP.NetUdemyCalculator\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.Net\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy.csproj",
+        "projectUniqueName": "C:\\.Net\\RestWithASP.NetUdemy\\RestWithASP.NetUdemyCalculator\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy.csproj",
         "projectName": "RestWithASP.NetUdemy",
-        "projectPath": "C:\\.Net\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy.csproj",
+        "projectPath": "C:\\.Net\\RestWithASP.NetUdemy\\RestWithASP.NetUdemyCalculator\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy.csproj",
         "packagesPath": "C:\\Users\\AS\\.nuget\\packages\\",
-        "outputPath": "C:\\.Net\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy\\RestWithASP.NetUdemy\\obj\\",
+        "outputPath": "C:\\.Net\\RestWithASP.NetUdemy\\RestWithASP.NetUdemyCalculator\\RestWithASP.NetUdemy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AS\\AppData\\Roaming\\NuGet\\NuGet.Config",
